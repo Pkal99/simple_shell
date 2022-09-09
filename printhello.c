@@ -1,5 +1,6 @@
 #include <stdio.h>
-/* print- print hello statement
+/**
+* print- print hello statement
 * printname- print kaleabayele
 */
 int main 
